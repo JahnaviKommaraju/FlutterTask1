@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter i am rich project.
+A new Flutter i am rich practice project.
 
 ## Getting Started
 
